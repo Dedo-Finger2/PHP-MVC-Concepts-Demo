@@ -1,0 +1,16 @@
+{
+    "name": "anton/php-mvc-concepts-demo",
+    "description": "Aprendendo MVC em PHP.",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Mauricio",
+            "email": "antonioimportant@gmail.com"
+        }
+    ],
+    "require": {}
+}
